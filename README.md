@@ -1,11 +1,10 @@
-# Hi there 👋, I'm Rajeev
+# Hi there 👋, I'm Rajeev Chandra
 
-💡 Engineering Manager with 16+ years in cloud solutions & AI/ML. Passionate about large-scale data platforms, AI agents, and real-world applications of generative AI.
 
 ---
 
 ## 🌐 Socials
-[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/rajeevachandra/)) 
+[LinkedIn](https://www.linkedin.com/in/rajeevachandra/)
 
 ---
 
