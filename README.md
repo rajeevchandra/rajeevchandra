@@ -4,7 +4,7 @@
 ---
 
 ## 🌐 Socials
-[LinkedIn](https://www.linkedin.com/in/rajeevachandra/)
+[LinkedIn](https://www.linkedin.com/in/rajeevachandra/) (https://dev.to/rajeev_3ce9f280cbae73b234)
 
 ---
 
