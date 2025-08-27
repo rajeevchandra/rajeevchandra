@@ -1,5 +1,6 @@
 # Hi there 👋, I'm Rajeev Chandra
 
+I also share blogs and demos on cutting-edge AI frameworks, Kubernetes, and developer productivity.  
 
 ---
 ## 🌐 Socials
