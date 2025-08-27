@@ -2,10 +2,6 @@
 
 
 ---
-
-## 🌐 Socials
-[LinkedIn](https://www.linkedin.com/in/rajeevachandra/)
-[Dev.to](https://dev.to/rajeev_3ce9f280cbae73b234)
 ## 🌐 Socials
 
 <p>
