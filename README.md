@@ -20,3 +20,7 @@
 
 ## 🔝 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevchandra&layout=compact)
+
+## 🔝 Top Contributed Repo
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=rajeevchandra&limit=5&theme=default&combine_all_yearly_contributions=true)
+
