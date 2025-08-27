@@ -6,6 +6,17 @@
 ## 🌐 Socials
 [LinkedIn](https://www.linkedin.com/in/rajeevachandra/)
 [Dev.to](https://dev.to/rajeev_3ce9f280cbae73b234)
+## 🌐 Socials
+
+<p>
+  <a href="https://www.linkedin.com/in/rajeevachandra/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="28">
+  </a>&nbsp;&nbsp;
+  <a href="https://dev.to/rajeev_3ce9f280cbae73b234" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/devdotto.svg" alt="Dev.to" height="28">
+  </a>
+</p>
+
 
 ---
 
