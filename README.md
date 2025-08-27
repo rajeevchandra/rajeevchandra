@@ -6,13 +6,12 @@
 
 <p>
   <a href="https://www.linkedin.com/in/rajeevachandra/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="28">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="28" width="28" style="fill:#0A66C2;" />
   </a>&nbsp;&nbsp;
-  <a href="https://dev.to/rajeev_3ce9f280cbae73b234" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/devdotto.svg" alt="Dev.to" height="28">
+  <a href="[https://dev.to/your-id](https://dev.to/rajeev_3ce9f280cbae73b234)" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/devdotto.svg" alt="Dev.to" height="28" width="28" style="fill:#0A0A0A;" />
   </a>
 </p>
-
 
 ---
 
