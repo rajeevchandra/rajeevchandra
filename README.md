@@ -25,7 +25,7 @@ I also share blogs and demos on cutting-edge AI frameworks, Kubernetes, and deve
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=rajeevchandra&theme=flat)
+<!--![Trophies](https://github-profile-trophy.vercel.app/?username=rajeevchandra&theme=flat)-->
 
 ---
 
